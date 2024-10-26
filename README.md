@@ -1,4 +1,4 @@
-# Microcontroller-4031
+# Microcontroller Course
 Welcome to the Microcontroller Course repository for students at Iran University of Science and Technology (IUST). This repository contains all relevant course materials, assignments, project files, and additional resources to aid in learning and understanding microcontroller programming.
 
 Course Overview
