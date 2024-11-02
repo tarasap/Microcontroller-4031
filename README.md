@@ -22,3 +22,7 @@ An in-depth look at the Reset and Clock Control (RCC) peripheral, including conf
 
 ## Session 3: GPIO Control and SysTick
 This session covers General Purpose Input/Output (GPIO) functionality, allowing students to control LEDs at the register level. Additionally, it includes work with the SysTick peripheral to enable precise time delays and system ticks.
+
+## Assignments and Projects
+Detailed descriptions of each assignment and project, including setup instructions and required files.
+
