@@ -5,8 +5,8 @@ Welcome to the Microcontroller Course repository for students at Iran University
 
 - [Course Overview](#course-overview)
 - [Session 1: Introduction to ARM Microcontrollers](#session-1-introduction-to-arm-microcontrollers)
-- [Session 2: Reset and Clock Control (RCC)](#session-2-Reset-and-Clock-Control )
-- [Session 3: GPIO Control and SysTick](#session-2-gpio-control-and-SysTick)
+- [Session 2: RCC (Reset and Clock Control)](#session-2-rcc-reset-and-clock-control)
+- [Session 3: GPIO Control and SysTick](#session-3-gpio-control-and-systick)
 - [Assignments and Projects](#assignments-and-projects)
 
 
