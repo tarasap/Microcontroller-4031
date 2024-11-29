@@ -8,7 +8,7 @@ Welcome to the Microcontroller Course repository for students at Iran University
 - [Session 2: RCC (Reset and Clock Control)](#session-2-rcc-reset-and-clock-control)
 - [Session 3: GPIO Control and SysTick](#session-3-gpio-control-and-systick)
 - [Session 4: EXTI and NVIC](#session-4-EXTI-and-NVIC)
-- [Session 5: Timers](#session-5-Timer)
+- [Session 5: Timers](#session-5-Timers)
 - [Assignments and Projects](#assignments-and-projects)
 
 
