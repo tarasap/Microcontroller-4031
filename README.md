@@ -7,6 +7,8 @@ Welcome to the Microcontroller Course repository for students at Iran University
 - [Session 1: Introduction to ARM Microcontrollers](#session-1-introduction-to-arm-microcontrollers)
 - [Session 2: RCC (Reset and Clock Control)](#session-2-rcc-reset-and-clock-control)
 - [Session 3: GPIO Control and SysTick](#session-3-gpio-control-and-systick)
+- [Session 4: EXTI and NVIC](#session-4-EXTI-and-NVIC)
+- [Session 5: Timers](#session-5-Timer)
 - [Assignments and Projects](#assignments-and-projects)
 
 
@@ -22,6 +24,11 @@ An in-depth look at the Reset and Clock Control (RCC) peripheral, including conf
 
 ## Session 3: GPIO Control and SysTick
 This session covers General Purpose Input/Output (GPIO) functionality, allowing students to control LEDs at the register level. Additionally, it includes work with the SysTick peripheral to enable precise time delays and system ticks.
+
+## Session 4: EXTI and NVIC
+
+
+## Session 5: Timers
 
 ## Assignments and Projects
 Detailed descriptions of each assignment and project, including setup instructions and required files.
